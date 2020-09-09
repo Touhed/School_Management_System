@@ -1,0 +1,110 @@
+C:\Users\Student\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.AssemblyInfo.cs
+C:\Users\Student\source\repos\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\netcoreapp2.1\SchoolManagementSystem.deps.json
+C:\Users\Student\source\repos\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\netcoreapp2.1\SchoolManagementSystem.runtimeconfig.json
+C:\Users\Student\source\repos\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\netcoreapp2.1\SchoolManagementSystem.runtimeconfig.dev.json
+C:\Users\Student\source\repos\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\netcoreapp2.1\SchoolManagementSystem.dll
+C:\Users\Student\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.RazorAssemblyInfo.cache
+C:\Users\Student\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.RazorAssemblyInfo.cs
+C:\Users\Student\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.TagHelpers.input.cache
+C:\Users\Student\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.TagHelpers.output.cache
+C:\Users\Student\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.RazorCoreGenerate.cache
+C:\Users\Student\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Student\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Student\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Student\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Student\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Student\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Student\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Student\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Student\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Student\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Student\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.RazorTargetAssemblyInfo.cache
+C:\Users\Student\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.RazorTargetAssemblyInfo.cs
+C:\Users\Student\source\repos\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\netcoreapp2.1\SchoolManagementSystem.pdb
+C:\Users\Student\source\repos\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\netcoreapp2.1\SchoolManagementSystem.Views.dll
+C:\Users\Student\source\repos\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\netcoreapp2.1\SchoolManagementSystem.Views.pdb
+C:\Users\Student\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.Views.pdb
+C:\Users\Student\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.dll
+C:\Users\Student\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.pdb
+C:\Users\Student\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.csproj.CopyComplete
+C:\Users\Student\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Student\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Login\Index.g.cshtml.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\bin\Debug\netcoreapp2.1\appsettings.Development.json
+H:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\bin\Debug\netcoreapp2.1\appsettings.json
+H:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+H:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\bin\Debug\netcoreapp2.1\SchoolManagementSystem.deps.json
+H:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\bin\Debug\netcoreapp2.1\SchoolManagementSystem.runtimeconfig.json
+H:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\bin\Debug\netcoreapp2.1\SchoolManagementSystem.runtimeconfig.dev.json
+H:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\bin\Debug\netcoreapp2.1\SchoolManagementSystem.dll
+H:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\bin\Debug\netcoreapp2.1\SchoolManagementSystem.pdb
+H:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\bin\Debug\netcoreapp2.1\SchoolManagementSystem.Views.dll
+H:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\bin\Debug\netcoreapp2.1\SchoolManagementSystem.Views.pdb
+H:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.csprojAssemblyReference.cache
+H:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.RazorAssemblyInfo.cache
+H:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.RazorAssemblyInfo.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.AssemblyInfoInputs.cache
+H:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.AssemblyInfo.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.TagHelpers.input.cache
+H:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.TagHelpers.output.cache
+H:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.RazorCoreGenerate.cache
+H:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Login\Index.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.RazorTargetAssemblyInfo.cache
+H:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.RazorTargetAssemblyInfo.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.Views.pdb
+H:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.dll
+H:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.pdb
+H:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.csproj.CopyComplete
+H:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\Razor\Areas\Role\Views\Role\Index.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutTest.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\bin\Debug\netcoreapp2.1\appsettings.json
+D:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\bin\Debug\netcoreapp2.1\SchoolManagementSystem.deps.json
+D:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\bin\Debug\netcoreapp2.1\SchoolManagementSystem.runtimeconfig.json
+D:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\bin\Debug\netcoreapp2.1\SchoolManagementSystem.runtimeconfig.dev.json
+D:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\bin\Debug\netcoreapp2.1\SchoolManagementSystem.dll
+D:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\bin\Debug\netcoreapp2.1\SchoolManagementSystem.pdb
+D:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\bin\Debug\netcoreapp2.1\SchoolManagementSystem.Views.dll
+D:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\bin\Debug\netcoreapp2.1\SchoolManagementSystem.Views.pdb
+D:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.csprojAssemblyReference.cache
+D:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.RazorAssemblyInfo.cache
+D:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.RazorAssemblyInfo.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.AssemblyInfoInputs.cache
+D:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.AssemblyInfo.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.TagHelpers.input.cache
+D:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.TagHelpers.output.cache
+D:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.RazorCoreGenerate.cache
+D:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Login\Index.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\Razor\Areas\Role\Views\Role\Index.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutTest.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.RazorTargetAssemblyInfo.cache
+D:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.RazorTargetAssemblyInfo.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.Views.pdb
+D:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.dll
+D:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.pdb
+D:\MY BOOKS\# IUBAT\Visual Projects\School Management System\SchoolManagementSystem\obj\Debug\netcoreapp2.1\SchoolManagementSystem.csproj.CopyComplete
